@@ -10,9 +10,7 @@ import java.net.Socket;
 public class network01 {
 
 	public static void main(String[] args) throws IOException {
-
-		123123123
-	}
-
-
+	
+	system.out.print("ㅎ");
+	}					  		}
 }
